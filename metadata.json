@@ -1,0 +1,6 @@
+{
+  "name": "Memory Palace",
+  "description": "An architectural one-take 3D visual essay on how memory palaces work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

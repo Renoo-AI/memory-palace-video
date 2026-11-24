@@ -1,0 +1,29 @@
+{
+  "totalFramesQueued": 4,
+  "slowestTop5": [
+    {
+      "frame": 3070,
+      "shot": "S24",
+      "ms": 11854,
+      "renderMs": 176.8
+    },
+    {
+      "frame": 3615,
+      "shot": "S29",
+      "ms": 11767,
+      "renderMs": 89
+    },
+    {
+      "frame": 3616,
+      "shot": "S29",
+      "ms": 9646,
+      "renderMs": 71.7
+    },
+    {
+      "frame": 2316,
+      "shot": "S19",
+      "ms": 5930,
+      "renderMs": 15.9
+    }
+  ]
+}
